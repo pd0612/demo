@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    // Declare variables
+    int a = 2, b = 3, c;
+
+    // Calculate the sum
+    c = a + b;
+
+    // Print the sum
+    printf("The sum of %d and %d is: %d\n", a, b, c);
+
+    return 0;
+}
